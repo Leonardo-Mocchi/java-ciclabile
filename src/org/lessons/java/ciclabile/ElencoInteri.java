@@ -17,7 +17,7 @@ public class ElencoInteri {
             return "\nFINE ELENCO, per continuare:\n1- avvia una nuova sessione\n2- aggiungi numerio tramite .addElemento()\n";
         }
         int value = elenco[currentIndex];
-        currentIndex = (currentIndex + 1);
+        currentIndex++;
         return Integer.toString(value);
     }
 
