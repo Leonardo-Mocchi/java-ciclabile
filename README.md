@@ -15,8 +15,8 @@ Dovrà offrire due metodi :
 
 ## Bonus
 
-[ ] prevedere anche un costruttore che non prenda parametri
-[ ] e un metodo addElemento che permetta di aggiungere un nuovo intero all’elenco da ciclare.
+[x] prevedere anche un costruttore che non prenda parametri
+[x] e un metodo addElemento che permetta di aggiungere un nuovo intero all’elenco da ciclare.
 
 ---
 
